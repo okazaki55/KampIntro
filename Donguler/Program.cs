@@ -25,6 +25,7 @@ namespace Donguler
             {
                 Console.WriteLine(kurslar[i]);
             }
+
             Console.WriteLine("For bitti");
 
 
